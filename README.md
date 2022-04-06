@@ -1,4 +1,4 @@
-### SpawnCampGames
+### Spawn Camp Games
 - Working with Photoshop, Blender, Unity, and more to creating beginner content, prototypes, and assets.
 
 <!--
