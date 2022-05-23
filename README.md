@@ -3,14 +3,15 @@
 
 ### Currently working on:
 🏴‍☠️ Untitled Pirate Game
+
+### 🎮 Want to be an Alpha Tester?
 ```
-Want to be an Alpha Tester?  
-  
 As an alpha tester you'll get the newest version of the game build, 
 access to the developer console with all debugging commands, 
-sneak peeks at new content, 
+a sneak peek at new content, 
 and a coveted spot in the following play test!
 ```
+
 ```
 Sign up using the Google Form on the "Untitled Pirate Game" Page :)
 ```
