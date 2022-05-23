@@ -1,8 +1,7 @@
-### Spawn Camp Games
+### SpawnCampGames
 - Working with Photoshop, Blender, Unity, and more to creating beginner content, prototypes, and assets.
 
-## Currently working on:
-
+# Currently working on:
 - Untitled Pirate Game -
 ```
 Want to be an Alpha Tester?  
