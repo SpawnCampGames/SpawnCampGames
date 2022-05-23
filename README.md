@@ -5,10 +5,12 @@
 
 - Untitled Pirate Game -
 ```
-Want to be an alpha tester?
+Want to be an Alpha Tester?
 ```
-Head over to https://spawncampgames.itch.io or..
+
+Head over to https://spawncampgames.itch.io or..  
 https://www.spawncampgames.com/game and..
+
 ```
 sign up using the Google Form on the "Untitled Pirate Game" page :)
 ```
