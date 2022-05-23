@@ -6,13 +6,12 @@
 ```
 Want to be an Alpha Tester?
 ```
-Head on over to:  
-https://spawncampgames.itch.io or  
-https://www.spawncampgames.com/game
-
 ```
 Sign up using the Google Form on the "Untitled Pirate Game" Page :)
 ```
+It can be found:
+https://spawncampgames.itch.io or  
+https://www.spawncampgames.com/game
 
 <!--
 **SpawnCampGames/SpawnCampGames** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
