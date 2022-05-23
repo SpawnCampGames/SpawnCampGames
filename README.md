@@ -4,9 +4,9 @@
 ### Currently working on:
 🏴‍☠️ Untitled Pirate Game
 ```
-Want to be an Alpha Tester?  
-Head over to
+Want to be an Alpha Tester?
 ```
+Head on over to:  
 https://spawncampgames.itch.io or  
 https://www.spawncampgames.com/game
 
