@@ -1,15 +1,18 @@
 ### Spawn Camp Games
 - Working with Photoshop, Blender, Unity, and more to creating beginner content, prototypes, and assets.
 
-## Currently Working on:
+## Currently working on:
 
 - Untitled Pirate Game -
 ```
 Want to be an alpha tester?
+```
 Head over to https://spawncampgames.itch.io or..
 https://www.spawncampgames.com/game and..
+```
 sign up using the Google Form on the "Untitled Pirate Game" page :)
 ```
+
 
 <!--
 **SpawnCampGames/SpawnCampGames** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
