@@ -2,7 +2,11 @@
 - Working with Photoshop, Blender, Unity, and more to creating beginner content, prototypes, and assets.
 
 ### Currently working on:
-```🏴‍☠️ Untitled Pirate Game```
+```Youtube Tutorials, Physics Ballista, Arcade Style Suspension System```
+
+<!--
+**SpawnCampGames/SpawnCampGames** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 ### 🎮 Want to be an Alpha Tester?
 ```
@@ -19,8 +23,6 @@ It can be found:
 https://spawncampgames.itch.io or  
 https://www.spawncampgames.com/game
 
-<!--
-**SpawnCampGames/SpawnCampGames** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
