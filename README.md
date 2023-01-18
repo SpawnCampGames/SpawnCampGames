@@ -5,7 +5,7 @@
 
 ```Youtube Tutorials, Space Adventure Game, Switch and Interaction System for Unity Asset Store```  
 
-You can find details for the new space game at:  
+You can find details for my new Space-Adventure game at:  
 
 https://spawncampgames.itch.io or  
 https://www.spawncampgames.com/kosmiq  
