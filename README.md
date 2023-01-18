@@ -1,10 +1,9 @@
-<h1>SpawnCampGames</h1>  
+<h1>SpawnCampGames</h1>
 - Working with Photoshop, Blender, Unity, and more to create beginner content, prototypes, and assets.  
 
-<h2>Currently working on:</h2>  
+<h2>Currently working on:</h2>
 
 ```Youtube Tutorials, Space Adventure Game, Switch and Interaction System for Unity Asset Store```  
-
 
 You can find details for the new space game at:  
 
