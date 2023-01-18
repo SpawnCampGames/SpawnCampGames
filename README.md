@@ -15,5 +15,5 @@ SpawnCampGames
 My friends call me Spawn.
 
 
-For help using Github Markdown (such as the formatting on this readme)  
-visit: https://gist.github.com/stevenyap/7038119
+<sub>For help using Github Markdown (such as the formatting on this readme)  
+visit: https://gist.github.com/stevenyap/7038119</sub>
