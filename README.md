@@ -5,7 +5,7 @@
 ```Youtube Tutorials, Space Adventure Game, Switch and Interaction System for Unity Asset Store```
 
 You can find details for the new space game @  
-
+---
 https://spawncampgames.itch.io or  
 https://www.spawncampgames.com/kosmiq
 
@@ -13,3 +13,7 @@ Spawn Camp Games
 SpawnCampGames
 
 My friends call me Spawn.
+
+
+For help using Github Markdown (such as the formatting on this readme)  
+visit: https://gist.github.com/stevenyap/7038119
