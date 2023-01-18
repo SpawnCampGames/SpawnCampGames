@@ -10,7 +10,8 @@ You can find details for the new space game at:
 https://spawncampgames.itch.io or  
 https://www.spawncampgames.com/kosmiq  
 
-Check out the ~~Trello~~ Notion board for the `Kosmiq` Project
+Check out the ~~Trello~~ Notion board for the `Kosmiq` Project here:  
+https://www.notion.so/spawncampgames/KOSMIQ-PROTOTYPE-f8aa5ed7f4684f78b3106737db970195
 
 *Spawn Camp Games  
 SpawnCampGames  
