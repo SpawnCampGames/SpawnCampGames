@@ -3,6 +3,8 @@
 
 <h2>Currently working on:</h2>
 
+![Kosmiq](https://www.spawncampgames.com/kosmiq/kosmiqthumbnail.png)
+
 ```Youtube Tutorials, Space Adventure Game, Switch and Interaction System for Unity Asset Store```  
 
 You can find details for my new Space-Adventure game at:  
