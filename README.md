@@ -8,10 +8,10 @@ Working with Photoshop, Blender, Unity, and more to create beginner content, pro
 
 🎮 Unity [101](https://www.github.com/spawncampgames/101)
 
-📜 Check out my [Github Gists](https://gist.github.com/spawncampgames)
+📜 Check out my [Github Gists](https://gist.github.com/spawncampgames) 🆕
 
 ### Currently working on:</h2>
-" KOSMIQ " - A Space Adventure First Person Shooter
+👾 " KOSMIQ " - A Space Adventure First Person Shooter
 
 
 <sub>
