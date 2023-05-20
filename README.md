@@ -2,7 +2,9 @@
 - Working with Photoshop, Blender, Unity, and more to create beginner content, prototypes, and assets.
 
 Game Dev [Resources](https://github.com/spawncampgames/Resources)
+
 Unity [101](https://www.github.com/spawncampgames/101)
+
 ---
 
 📜 Check out my [Github Gists](https://gist.github.com/spawncampgames)
