@@ -1,20 +1,19 @@
 <h1>SpawnCampGames</h1>
 - Working with Photoshop, Blender, Unity, and more to create beginner content, prototypes, and assets.
 
+
 Game Dev [Resources](https://github.com/spawncampgames/Resources)
 
 Unity [101](https://www.github.com/spawncampgames/101)
 
----
 
 📜 Check out my [Github Gists](https://gist.github.com/spawncampgames)
 
 <h2>Currently working on:</h2>
 Kosmiq - A Space Adventure First Person Shooter
 
----
-
 ```Youtube Tutorials, Space Adventure Game, Switch and Interaction System for Unity Asset Store```  
+---
 
 You can find details for my new Space-Adventure game at:  
 
