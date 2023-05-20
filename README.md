@@ -1,5 +1,8 @@
 <h1>SpawnCampGames</h1>
-- Working with Photoshop, Blender, Unity, and more to create beginner content, prototypes, and assets.  
+Check out [Resources](https://www.github.com/spawncampgames/Resources) and Unity [101](https://www.github.com/spawncampgames/Resources)
+- Working with Photoshop, Blender, Unity, and more to create beginner content, prototypes, and assets.
+
+📜 Check out my [Github Gists](https://gist.github.com/spawncampgames)
 
 <h2>Currently working on:</h2>
 
