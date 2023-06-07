@@ -4,9 +4,9 @@ Working with Photoshop, Blender, Unity, and more to create beginner content, pro
 ---
 
 
-🎮 Game Dev [Resources](https://github.com/spawncampgames/Resources)
+🎮 Game Dev [Resources](https://github.com/spawncampgames/Resources) (All sorts of resources)
 
-🎮 Unity [101](https://www.github.com/spawncampgames/101)
+🎮 Unity [101](https://www.github.com/spawncampgames/101) (Basics of Unity and helpful resources)
 
 📜 Check out my [Github Gists](https://gist.github.com/spawncampgames) 🆕
 
