@@ -5,6 +5,7 @@ Working with Photoshop, Blender, Unity, and more to create beginner content, pro
 ### Currently working on:</h2>
 📻 [**SpawnCamp Sandbox**](https://www.github.com/spawncampgames/Sandbox) - A Prototyping Project Template  
 👾 **" KOSMIQ "** - A Space Adventure First Person Shooter
+(Overclocked And Loaded) **
 
 ---
 
@@ -29,6 +30,7 @@ https://spawncampgames.itch.io or
 
 Check out the ~~Trello~~ Notion board for the `Kosmiq` Project here:  
 https://www.notion.so/spawncampgames/KOSMIQ-PROTOTYPE-f8aa5ed7f4684f78b3106737db970195
+(Migrating alot to Github Repos and Gists)
 
 *Spawn Camp Games  
 SpawnCampGames  
