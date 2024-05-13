@@ -5,9 +5,9 @@ Learning Electronics via ESP32 and the [Flysky-i6x](https://github.com/SpawnCamp
 
 ---
 ### Currently working on:</h2>
-📻 [**SpawnCamp Sandbox**](https://www.github.com/spawncampgames/Sandbox) - A Prototyping Project Template  
+📻 [**SpawnCamp Sandbox**](https://www.github.com/spawncampgames/Sandbox) / TheKit - A Prototyping Project Template  
 👾 **" KOSMIQ "** - A Space Adventure First Person Shooter  
-    (Overclocked And Loaded) **
+    ** (Overclocked And Loaded) **
 
 ---
 
