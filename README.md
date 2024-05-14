@@ -1,22 +1,18 @@
 # SpawnCampGames
 - Working with Photoshop, Blender, Unity, and more to create beginner content, prototypes, and assets.
 - Learning Electronics via ESP32 and the [Flysky-i6x](https://github.com/SpawnCampGames/flysky-i6x) RC Radio
-- Sandbox / [SPWN_Code](https://github.com/SpawnCampGames/Sandbox/tree/main/Spwn_Code) (Prototyping Templates/Codebase)
+- Sandbox / [SPWN_Code](https://github.com/SpawnCampGames/Sandbox/tree/main/Spwn_Code) (Prototyping Templates / Codebase)
 
----
-### Currently working on:</h2>
+### Currently working on:
 - 📻 [**SpawnCamp Sandbox**](https://www.github.com/spawncampgames/Sandbox) / TheKit - A Prototyping Project Template  
 - 👾 **" KOSMIQ "** - A Space Adventure First Person Shooter
-- **(Overclocked And Loaded)**
+- 🚧 **(Overclocked And Loaded)**
 
----
+#### Help / Resources
 
-🎮 Game Dev [Resources](https://github.com/spawncampgames/Resources) (All sorts of resources)
-
-🎮 Unity [101](https://www.github.com/spawncampgames/101) (Basics of Unity and helpful resources)
-
-📜 Check out my [Github Gists](https://gist.github.com/spawncampgames) 🆕
-
+🎮 Game Dev [Resources](https://github.com/spawncampgames/Resources) (All sorts of resources)  
+🎮 Unity [101](https://www.github.com/spawncampgames/101) (Basics of Unity and helpful resources)  
+📜 Check out my [Github Gists](https://gist.github.com/spawncampgames) 🆕  
 
 <sub>
 Youtube Tutorials, Space Adventure Game, Switch and Interaction System for Unity Asset Store
@@ -24,15 +20,16 @@ Youtube Tutorials, Space Adventure Game, Switch and Interaction System for Unity
 
 ---
 
+> [!NOTE]  
+> You can find details for my new Space-Adventure game and other projects at:  
+> https://spawncampgames.itch.io  
+> ~~https://www.spawncampgames.com/kosmiq~~
 
-You can find details for my new Space-Adventure game and other projects at:  
-
-https://spawncampgames.itch.io or  
-~~https://www.spawncampgames.com/kosmiq~~  
+---
 
 *Spawn Camp Games  
 SpawnCampGames  
-My friends call me Spawn.*  
+My friends call me **Spawn**.*  
 
 <sub>For help using Github Markdown (such as the formatting on this readme)  
-visit: https://gist.github.com/stevenyap/7038119</sub>
+visit: https://gist.github.com/stevenyap/7038119 & https://github.com/orgs/community/discussions/16925</sub>
