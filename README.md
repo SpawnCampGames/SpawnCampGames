@@ -4,7 +4,7 @@
 - Sandbox / [SPWN_Code](https://github.com/SpawnCampGames/The-Kit/tree/main/Documentation/SPWN_Code.md) (Prototyping Templates / Codebase)
 
 ### Currently working on:
-- 📻 ~~[**SpawnCamp Sandbox**](https://www.github.com/spawncampgames/Sandbox)~~ / [TheKit](https://www.github.com/spawncampgames/The-Kit) - A Prototyping Project Template  
+- 📻 ~~[**SpawnCamp Sandbox**](https://www.github.com/spawncampgames/Sandbox)~~ / 🧰[TheKit](https://www.github.com/spawncampgames/The-Kit) - A Prototyping Project Template  
 - 👾 **" KOSMIQ "** - A Space Adventure First Person Shooter
 - 🚧 **(Overclocked And Loaded)**
 
