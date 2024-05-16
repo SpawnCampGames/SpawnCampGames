@@ -11,7 +11,7 @@
 #### Help / Resources
 
 🎮 Game Dev [Resources](https://github.com/spawncampgames/Resources) (All sorts of resources)  
-🎮 Unity [101](https://www.github.com/spawncampgames/101/readme.md) (Basics of Unity and helpful resources)  
+🎮 Unity [101](https://github.com/SpawnCampGames/Resources/blob/main/README.md) (Basics of Unity and helpful resources)  
 📜 Check out my [Github Gists](https://gist.github.com/spawncampgames) 🆕  
 
 <sub>
