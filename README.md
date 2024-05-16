@@ -1,10 +1,10 @@
 # SpawnCampGames
 - Working with Photoshop, Blender, Unity, and more to create beginner content, prototypes, and assets.
 - Learning Electronics via ESP32 and the [Flysky-i6x](https://github.com/SpawnCampGames/flysky-i6x) RC Radio
-- Sandbox / [SPWN_Code](https://github.com/SpawnCampGames/Sandbox/tree/main/Spwn_Code) (Prototyping Templates / Codebase)
+- Sandbox / [SPWN_Code](https://github.com/SpawnCampGames/The-Kit/tree/main/Documentation/SPWN_Code.md) (Prototyping Templates / Codebase)
 
 ### Currently working on:
-- 📻 [**SpawnCamp Sandbox**](https://www.github.com/spawncampgames/Sandbox) / TheKit - A Prototyping Project Template  
+- 📻 ~~[**SpawnCamp Sandbox**](https://www.github.com/spawncampgames/Sandbox)~~ / [TheKit](https://www.github.com/spawncampgames/The-Kit) - A Prototyping Project Template  
 - 👾 **" KOSMIQ "** - A Space Adventure First Person Shooter
 - 🚧 **(Overclocked And Loaded)**
 
