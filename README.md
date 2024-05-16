@@ -4,14 +4,14 @@
 - Sandbox / [SPWN_Code](https://github.com/SpawnCampGames/The-Kit/tree/main/Documentation/SPWN_Code.md) (Prototyping Templates / Codebase)
 
 ### Currently working on:
-- 📻 ~~[**SpawnCamp Sandbox**](https://www.github.com/spawncampgames/Sandbox)~~ / 🧰[TheKit](https://www.github.com/spawncampgames/The-Kit) - A Prototyping Project Template  
+- 📻 ~~[**SpawnCamp Sandbox**](https://www.github.com/spawncampgames/Sandbox)~~ / 🧰[TheKit](https://github.com/SpawnCampGames/The-Kit/blob/main/README.md) - A Prototyping Project Template  
 - 👾 **" KOSMIQ "** - A Space Adventure First Person Shooter
 - 🚧 **(Overclocked And Loaded)**
 
 #### Help / Resources
 
 🎮 Game Dev [Resources](https://github.com/spawncampgames/Resources) (All sorts of resources)  
-🎮 Unity [101](https://www.github.com/spawncampgames/101) (Basics of Unity and helpful resources)  
+🎮 Unity [101](https://www.github.com/spawncampgames/101/readme.md) (Basics of Unity and helpful resources)  
 📜 Check out my [Github Gists](https://gist.github.com/spawncampgames) 🆕  
 
 <sub>
