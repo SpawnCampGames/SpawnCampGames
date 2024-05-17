@@ -11,8 +11,12 @@
 #### Help / Resources
 
 🎮 Game Dev [Resources](https://github.com/spawncampgames/Resources) (All sorts of resources)  
+
 🎮 Unity [101](https://github.com/SpawnCampGames/Resources/blob/main/README.md) (Basics of Unity and helpful resources)  
+
 📜 Check out my [Github Gists](https://gist.github.com/spawncampgames) 🆕  
+
+⚠️ [Learning with ChatGPT](https://github.com/SpawnCampGames/Resources/blob/main/101/ChatGPT_AI.md) (or other AI Chatbots)
 
 <sub>
 Youtube Tutorials, Space Adventure Game, Switch and Interaction System for Unity Asset Store
