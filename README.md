@@ -5,9 +5,12 @@
 
 ### Currently working on:
 - 📻 ~~[**SpawnCamp Sandbox**](https://www.github.com/spawncampgames/Sandbox)~~ - ~~A Prototyping Project Template~~ **_deprecated_**
-- 🧰 [The-Kit](https://github.com/SpawnCampGames/The-Kit/blob/main/README.md) - A Prototyping Project Template  
+- 🧰 [**The-Kit**](https://github.com/SpawnCampGames/The-Kit/blob/main/README.md) - A Prototyping Project Template  
 - 👾 **" KOSMIQ "** - A Space Adventure First Person Shooter
 - 🚧 **(Overclocked And Loaded)**
+
+#### 🏗️ Roadmap
+![ROADMAP](https://storage.ko-fi.com/cdn/useruploads/display/50e94d72-4639-46f6-8ab3-8fb3df59545b_spwn_romap.png)
 
 #### Help / Resources
 
@@ -23,13 +26,10 @@
 Youtube Tutorials, Space Adventure Game, Switch and Interaction System for Unity Asset Store
 </sub>  
 
-
-![ROADMAP](https://storage.ko-fi.com/cdn/useruploads/display/50e94d72-4639-46f6-8ab3-8fb3df59545b_spwn_romap.png)
-
 ---
 
 > [!NOTE]  
-> You can find details for my new Space-Adventure game and other projects at:  
+> Find my other projects at:  
 > https://spawncampgames.itch.io  
 > ~~https://www.spawncampgames.com/kosmiq~~
 
@@ -40,10 +40,10 @@ SpawnCampGames
 My friends call me **Spawn**.*  
 
 >[!IMPORTANT]  
-> Please consider supporting by grabbing my "DLC" membership! 🧡  
-> or just donate a few bux if you wish.  
-> https://ko-fi.com/spawncampgames  
-> It helps me get closer to deploying my first video game.
+> Please consider **supporting** by grabbing my "DLC" membership! 🧡 Sharing all the assets I create.  
+> Any support helps me to keep making *Tutorials* and *Resources* for Unity Beginners.  
+> As well as getting ever closer to deploying my first video game 👾♠️.  
+> ☕ https://ko-fi.com/spawncampgames  
 
 ![Spwn DLC](https://storage.ko-fi.com/cdn/useruploads/post/40239f14-126b-481c-ba3c-58c26037c852_spawncampgames_dlc.png)
 
