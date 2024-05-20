@@ -10,8 +10,11 @@
 - 🚧 **(Overclocked And Loaded)**
 - 📺 Unity Tutorials / Github hosted Unity Documentation *#Revamped*
 
-#### 🏗️ Roadmap
+<details>
+<summary>🏗️ <b>View Roadmap</b></summary>
+
 ![ROADMAP](https://storage.ko-fi.com/cdn/useruploads/display/50e94d72-4639-46f6-8ab3-8fb3df59545b_spwn_romap.png)
+</details>
 
 #### Help / Resources
 
