@@ -5,7 +5,7 @@
 
 ### Currently working on:
 - 📻 ~~[**SpawnCamp Sandbox**](https://www.github.com/spawncampgames/Sandbox)~~ - ~~A Prototyping Project Template~~ **_deprecated_**
-- 🧰 [**The-Kit**](https://github.com/SpawnCampGames/The-Kit/blob/main/README.md) - A Prototyping Project Template  
+- 🧰 [**The-Kit**](https://github.com/SpawnCampGames/The-Kit/blob/main/readme.md) - A Prototyping Project Template  
 - 👾 **" KOSMIQ "** - A Space Adventure First Person Shooter
 - 🚧 **(Overclocked And Loaded)**
 - 📺 Unity Tutorials / Github hosted Unity Documentation *#Revamped*
@@ -17,7 +17,7 @@
 
 🎮 Game Dev [Resources](https://github.com/spawncampgames/Resources) (All sorts of resources)  
 
-🎮 Unity [101](https://github.com/SpawnCampGames/Resources/blob/main/README.md) (Basics of Unity and helpful resources)  
+🎮 Unity [101](https://github.com/SpawnCampGames/Resources/blob/main/readme.md) (Basics of Unity and helpful resources)  
 
 📜 Check out my [Github Gists](https://gist.github.com/spawncampgames) 🆕  
 
