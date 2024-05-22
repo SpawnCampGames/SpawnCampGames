@@ -18,9 +18,9 @@
 
 #### Help / Resources
 
-🎮 Game Dev [Resources](https://github.com/spawncampgames/Resources/readme.md) (All sorts of resources)  
+🎮 Game Dev [Resources](https://github.com/spawncampgames/Resources/blob/master/readme.md) (All sorts of resources)  
 
-🎮 Unity [101](https://github.com/SpawnCampGames/Resources/blob/main/readme.md) (Basics of Unity and helpful resources)  
+🎮 Unity [101](https://github.com/SpawnCampGames/Resources/blob/main/101/readme.md) (Basics of Unity and helpful resources)  
 
 📜 Check out my [Github Gists](https://gist.github.com/spawncampgames) 🆕  
 📘 *Indexed in: [Useful-Scripts](https://github.com/SpawnCampGames/Useful-Scripts/blob/master/readme.md)* 🆕  
