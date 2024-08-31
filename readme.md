@@ -45,12 +45,13 @@ SpawnCampGames
 My friends call me **Spawn**.*  
 
 >[!IMPORTANT]  
-> Please consider **supporting** by grabbing my "DLC" membership! 🧡 Sharing all the assets I create.  
+> Please consider **supporting** 🧡 Sharing all the assets I create.  
 > Any support helps me to keep making *Tutorials* and *Resources* for Unity Beginners.  
 > As well as getting ever closer to deploying my first video game 👾♠️.  
 > ☕ https://ko-fi.com/spawncampgames  
 
-![Spwn DLC](https://storage.ko-fi.com/cdn/useruploads/post/40239f14-126b-481c-ba3c-58c26037c852_spawncampgames_dlc.png)
+### LIVE SNAPSHOT -coming soon-
+> here you'll see a recent screenshot of my current project
 
 <sub>For help using Github Markdown (such as the formatting on this readme)  
 visit: https://gist.github.com/stevenyap/7038119 & https://github.com/orgs/community/discussions/16925</sub>
