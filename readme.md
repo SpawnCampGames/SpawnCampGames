@@ -4,10 +4,8 @@
 - Sandbox / [SPWN_Code](https://github.com/SpawnCampGames/The-Kit/tree/main/Documentation/SPWN_Code.md) (Prototyping Templates / Codebase)
 
 ### Currently working on:
-- 📻 ~~[**SpawnCamp Sandbox**](https://www.github.com/spawncampgames/Sandbox)~~ - ~~A Prototyping Project Template~~ **_deprecated_**
+- 🧪The L.A.B. Prototype Environment
 - 🧰 [**The-Kit**](https://github.com/SpawnCampGames/The-Kit/blob/main/readme.md) - A Prototyping Project Template 🆕  
-- 👾 **" KOSMIQ "** - A Space Adventure First Person Shooter
-- 🚧 **(Overclocked And Loaded)**
 - 📺 Unity Tutorials / Github hosted Unity Documentation *#Revamped*
 
 <details>
@@ -19,13 +17,7 @@
 #### Help / Resources
 
 🎮 Game Dev [Resources](https://github.com/spawncampgames/Resources/blob/master/readme.md) (All sorts of resources)  
-
 🎮 Unity [101](https://github.com/SpawnCampGames/Resources/blob/main/101/readme.md) (Basics of Unity and helpful resources)  
-
-📜 Check out my [Github Gists](https://gist.github.com/spawncampgames) 🆕  
-📘 *Indexed in: [Useful-Scripts](https://github.com/SpawnCampGames/Useful-Scripts/blob/master/readme.md)* 🆕  
-
-⚠️ [Learning with ChatGPT](https://github.com/SpawnCampGames/Resources/blob/main/101/ChatGPT_AI.md) (or other AI Chatbots)
 
 <sub>
 Youtube Tutorials, Space Adventure Game, Switch and Interaction System for Unity Asset Store
@@ -35,8 +27,8 @@ Youtube Tutorials, Space Adventure Game, Switch and Interaction System for Unity
 
 > [!NOTE]  
 > Find my other projects at:  
-> https://spawncampgames.itch.io  
-> ~~https://www.spawncampgames.com/kosmiq~~
+> https://spawncampgames.itch.io
+> https://spawncampgames.github.io
 
 ---
 
