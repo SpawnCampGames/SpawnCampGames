@@ -5,7 +5,7 @@
 
 ### Currently working on:
 - 🧪The L.A.B. Prototype Environment
-- 🧰 [**The-Kit**](https://github.com/SpawnCampGames/The-Kit/blob/main/readme.md) - A Prototyping Project Template 🆕  
+- 🧰 [**The-Kit**](https://github.com/SpawnCampGames/The-Kit) - A Prototyping Project Template 🆕  
 - 📺 Unity Tutorials / Github hosted Unity Documentation *#Revamped*
 
 <details>
@@ -29,6 +29,7 @@ Youtube Tutorials, Space Adventure Game, Switch and Interaction System for Unity
 > Find my other projects at:  
 > https://spawncampgames.itch.io
 > https://spawncampgames.github.io
+> [packages](https://github.com/SpawnCampGames/packages)
 
 ---
 
