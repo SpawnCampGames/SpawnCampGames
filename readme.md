@@ -1,13 +1,13 @@
 ![SpawnCampGames](https://github.com/SpawnCampGames/Resources/blob/main/101/img/SPWN_GITHUB_HEADER.png)
 
-### ROLLBACK UNITY HUB BEFORE FORCED CLOUD STORAGE (version 3.13)
+<!-- ### ROLLBACK UNITY HUB BEFORE FORCED CLOUD STORAGE (version 3.13)
 :link: https://github.com/jchu634/UnityHubArchive
 - To Disable Auto-Updates
   - Make sure Unity Hub is fully closed (not open in task manager)
   - Navigate to where your Hub is installed.. `C:\Program Files\Unity\Hub\Editor`
   - Go into the `resource` folder and rename or remove `app-update.yml`
   - Relaunch the Unity Hub.. (you shouldn't see the notification at top anymore)
-
+-->
 ## 🚧 [UNDER CONSTRUCTION]
 
 - Working with Photoshop, Blender, Unity, and more to create beginner content, prototypes, and assets.
